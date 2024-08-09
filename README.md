@@ -4,6 +4,8 @@ This open-source implementation of space syntax analysis (axial/segment) offers 
 2. Segment analysis, including angular and normalized analysis
 3. Depth analysis (giving a metric distance from an axial line(s); the outcome is a polygon with the routes that can reach within the given radius)
 4. Additional experimental analyses will be introduced in a few months.
-Feel free to use and update; kindly cite it in your publications as follows: Mohareb, N. (2024). Hayyiz (Version 1.0) [Software]. GitHub. https://github.com/nmohareb2000/space-syntaxNM
+
+Feel free to use and update; kindly cite it in your publications as follows: 
+Mohareb, N. (2024). Hayyiz (Version 1.0) [Software]. GitHub. https://github.com/nmohareb2000/space-syntaxNM
 
  

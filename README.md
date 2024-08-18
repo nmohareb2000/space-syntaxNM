@@ -9,3 +9,4 @@ Feel free to use and update; kindly cite it in your publications as follows:
 Mohareb, N. (2024). Hayyiz (Version 1.0) [Software]. GitHub. https://github.com/nmohareb2000/space-syntaxNM
 
  
+![Motion Mapping Introductory Workshop on Architecture   Urban Simulation with AnyLogic 4](https://github.com/user-attachments/assets/d802d7c5-9977-4feb-b907-59d39981b405)
